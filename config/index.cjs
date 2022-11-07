@@ -19,11 +19,11 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '清宝',
+      name: '清砸',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oQd_p5yIQ7LiFDIVKG_1bjVXMitY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'dDzDPZzJl5wYBUxLpVaNUyV8Vue8J5bKR2EIJhjIhxg',
+      useTemplateId: '27nQYUl6SF0PckcDvYOVTEk9VOnmn4HiAqNwt86f5zI',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-21',
       festivals: [
@@ -49,38 +49,7 @@ const USER_CONFIG = {
     },
   ],
   
-  USERS: [
-    {
-      // 想要发送的人的名字
-      name: '清宝',
-      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oQd_p52JLqy5BkmbdS-jF7aGaxss',
-      // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'dDzDPZzJl5wYBUxLpVaNUyV8Vue8J5bKR2EIJhjIhxg',
-      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '05-21',
-      festivals: [
-        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {
-          //type: '*生日', name: '清宝', year: '1999', date: '07-04',
-        },
-        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {
-          type: '生日', name: '清宝', year: '1999', date: '05-21',
-        },
-        {
-          type: '节日', name: '相识纪念日', year: '2022', date: '09-16',
-        },
-      ],
-      // 我们在一起已经有xxxx天了的配置
-      customizedDateList: [
-        // 在一起的日子
-        { keyword: 'love_day', date: '2022-09-16' },
-        // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
-      ],
-    },
-  ],
+  
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
