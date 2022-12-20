@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx1b9f302f8a896a77',
+  APP_ID: 'wx1b9f302f8a896a77失恋了',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'b3771781f3ed96fd6bb29dace134cc39',
+  APP_SECRET: 'b3771781f3ed96fd6bb29dace134cc39失恋了',
 
   PROVINCE: '安徽省',
   CITY: '合肥',
@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '清砸',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oQd_p5yIQ7LiFDIVKG_1bjVXMitY',
+      id: 'oQd_p5yIQ7LiFDIVKG_1bjVXMitY失恋了',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '27nQYUl6SF0PckcDvYOVTEk9VOnmn4HiAqNwt86f5zI',
+      useTemplateId: '27nQYUl6SF0PckcDvYOVTEk9VOnmn4HiAqNwt86f5zI失恋了',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-21',
       festivals: [
