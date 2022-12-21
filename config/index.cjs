@@ -8,22 +8,22 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx1b9f302f8a896a77失恋了',
+  APP_ID: 'wx1b9f302f8a896a77',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'b3771781f3ed96fd6bb29dace134cc39失恋了',
+  APP_SECRET: 'b3771781f3ed96fd6bb29dace134cc39',
 
   PROVINCE: '安徽省',
-  CITY: '合肥',
+  CITY: '安庆市',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '清砸',
+      name: '宝宝，我错了',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oQd_p5yIQ7LiFDIVKG_1bjVXMitY失恋了',
+      id: 'oQd_p5yIQ7LiFDIVKG_1bjVXMitY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '27nQYUl6SF0PckcDvYOVTEk9VOnmn4HiAqNwt86f5zI失恋了',
+      useTemplateId: '27nQYUl6SF0PckcDvYOVTEk9VOnmn4HiAqNwt86f5zI',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-21',
       festivals: [
@@ -39,6 +39,7 @@ const USER_CONFIG = {
           type: '节日', name: '相识纪念日', year: '2022', date: '09-16',
         },
       ],
+      清清，我真的好想你，回来吧，我们不要冷战好吗。
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
